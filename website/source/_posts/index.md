@@ -1,6 +1,6 @@
 title: Food Truck Website
 subCategories: [HTML | CSS | JavaScript]
-cover_image: images/capeStoneProject.jpeg
+cover_image: images/capStoneProject.jpeg
 ---
 This app will help prospective customers find where the truck is located and see what the truck offers. It will allow them to order their food online and pick it up. In addition to a locating a stop near the user.
 
