@@ -15,9 +15,9 @@ Based on whatever selection was made the user either tide won or lost, the tally
 A refresher:
 
 Rock DESTORYS scissors
-Scissors CUTs paper
+Scissors CUTS paper
 Paper COVERS rock
 
 
-To see more click [here](https://github.com/MikaylaMunn/RockPaperScissors)
+To see more click [here](https://github.com/MikaylaMunn/RockPaperScissors)on Github
 To see website click [here](https://mikaylamunn.github.io/RockPaperScissors/)
