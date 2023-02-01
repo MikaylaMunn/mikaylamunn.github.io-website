@@ -1,7 +1,7 @@
 ---
 title: Tic Tac Toe
 subCategories: [React | HTML | CSS]
-cover_image: images/TicTacToe.jpg
+cover_image: images/TicTacToe.jpeg
 ---
 This app contains a game called tic tac toe. In this game the user will be asked to click a square. If the user clicks the square, an "X" or "O". Then their friend will be allowed to click a square and have "X" or "O" pop up.
 

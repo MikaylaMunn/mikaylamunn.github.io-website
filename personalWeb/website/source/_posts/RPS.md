@@ -1,6 +1,7 @@
+---
 title: Rock Paper Scissors
 subCategories: [HTML | CSS | JavaScript]
-cover_image: images/RPS.jpg
+cover_image: images/ RPS.jpg
 ---
 This game is designed for the user the computer to play against each other in the classic game of Rock Paper Scissors
 

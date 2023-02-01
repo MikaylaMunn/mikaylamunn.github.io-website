@@ -1,6 +1,6 @@
 ---
 title: About Me
-cover_image: images/picOfMe.JPG
+cover_image: images/picOfMe.jpeg
 layout: about
 ---
 
