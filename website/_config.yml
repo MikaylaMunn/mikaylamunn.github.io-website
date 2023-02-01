@@ -112,5 +112,5 @@ theme: edinburgh
 deploy:
   type: git
   repo: https://mikaylamunn.github.io/website/
-  branch: gh-pages
+  branch: main
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
