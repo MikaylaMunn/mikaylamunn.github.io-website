@@ -12,4 +12,5 @@ There is also a reset button to reset the page to a blank game, but not the move
 
 
 
-To see more click [here](https://github.com/MikaylaMunn/TicTacToe)
+To see more click [here](https://github.com/MikaylaMunn/TicTacToe) to see code on GitHub
+To see website click [here](https://mikaylamunn.github.io/TicTacToe/)
