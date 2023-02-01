@@ -111,6 +111,6 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/MikaylaMunn/website
-  branch: main
+  repo: https://mikaylamunn.github.io/website/
+  branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
