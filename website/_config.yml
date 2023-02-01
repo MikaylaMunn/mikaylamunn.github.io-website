@@ -20,7 +20,7 @@ menu:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://mikaylamunn.github.io/website/
+url: https://mikaylamunn.github.io 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -111,6 +111,6 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://mikaylamunn.github.io/website/
+  repo: https://github.com/MikaylaMunn/mikaylamunn.github.io
   branch: main
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
