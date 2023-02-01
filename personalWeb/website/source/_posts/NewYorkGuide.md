@@ -1,7 +1,7 @@
 ---
 title: New York Guide
 subCategories: [HTML | CSS | Python | Django]
-cover_image: images/nyc-guide.jpg 
+cover_image: images/nyc-guide.jpeg 
 ---
 This app was a partner project and a forked repo designed for us to work on connecting our front end (HTML, CSS, Python) to the back end (Django).
 

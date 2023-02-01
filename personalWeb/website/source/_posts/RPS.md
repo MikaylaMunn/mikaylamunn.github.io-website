@@ -1,7 +1,7 @@
 ---
 title: Rock Paper Scissors
 subCategories: [HTML | CSS | JavaScript]
-cover_image: images/ RPS.jpg
+cover_image: images/RPS.jpeg
 ---
 This game is designed for the user the computer to play against each other in the classic game of Rock Paper Scissors
 
@@ -15,7 +15,7 @@ Based on whatever selection was made the user either tide won or lost, the tally
 A refresher:
 
 Rock DESTORYS scissors
-Scissors CUT paper
+Scissors CUTs paper
 Paper COVERS rock
 
 
