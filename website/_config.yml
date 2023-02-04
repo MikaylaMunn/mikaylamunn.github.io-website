@@ -13,6 +13,7 @@ timezone: ''
 
 # Header
 menu:
+  Projects: /
   About: /about
   Contact: /contact
   LinkedIn: https://www.linkedin.com/in/mikaylamunn/
