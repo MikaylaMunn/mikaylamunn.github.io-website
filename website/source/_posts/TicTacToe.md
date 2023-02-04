@@ -2,6 +2,7 @@
 title: Tic Tac Toe
 subCategories: [React | HTML | CSS]
 cover_image: images/TicTacToe.jpeg
+website: https://mikaylamunn.github.io/TicTacToe/
 ---
 This app contains a game called tic tac toe. In this game the user will be asked to click a square. If the user clicks the square, an "X" or "O". Then their friend will be allowed to click a square and have "X" or "O" pop up.
 
@@ -9,8 +10,8 @@ The game will continue until one wins or there is a draw, meaning a tie. If the 
 
 There is also a reset button to reset the page to a blank game, but not the moves until a new game has started. In addition, the user can click the buttons generated after each move and see the moves happen.
 
+Want to play, click the image **above**.
 
 
 
 To see more click [here](https://github.com/MikaylaMunn/TicTacToe) to see code on GitHub
-To see website click [here](https://mikaylamunn.github.io/TicTacToe/)

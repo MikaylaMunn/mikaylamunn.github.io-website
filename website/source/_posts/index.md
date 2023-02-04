@@ -1,6 +1,7 @@
 title: Food Truck Website
 subCategories: [HTML | CSS | JavaScript]
 cover_image: images/capStoneProject.jpeg
+website: https://mikaylamunn.github.io/CapstoneProject/
 ---
 This app will help prospective customers find where the truck is located and see what the truck offers. It will allow them to order their food online and pick it up. In addition to a locating a stop near the user.
 
@@ -13,6 +14,6 @@ On the view menu, they can select items while their cart runs a total on the rig
 
 In the form they will be asked to provide their name, address, credit card, and allergies. They can also pick the date and time they plan on picking up their order. Once they hit submit, they information they entered will come up in a modal, to double check everything is right. They will be asked to provide a photo so we know who is picking up the order, to prevent confusion and messed up orders.
 
+Want to see, click the image **above**.
 
 To see more click [here](https://github.com/MikaylaMunn/CapstoneProject) to see code on GitHub 
-To see website click [here](https://mikaylamunn.github.io/CapstoneProject/)
