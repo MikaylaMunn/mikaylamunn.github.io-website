@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Crimson Text', sans-serif;
 }
 
 form {
@@ -42,7 +42,7 @@ textarea:focus {
 
 .portfolio-content {
 	line-height: 2;
-	color: #555;
+	color: #747F7F;
 }
 
 .portfolio-content a {
@@ -54,26 +54,30 @@ textarea:focus {
 .portfolio-content a:hover {
 	color: #000;
 	text-decoration: none;
-	border-bottom: 1px solid #555;
+	border-bottom: 1px solid #747F7F;
 }
 
 h1,
 h2,
 h3 {
-	font-family: 'Crimson Text', sans-serif;
+	text-shadow: 1px 1px 2px black;
 	letter-spacing: 1px;
 	font-weight: 300;
 	margin-bottom: 20px;
+	color:#0275d8;
 }
 
 .navbar-brand {
-	font-weight: 800;
-	font-size: 1.5rem;
+	font-weight: bold;
+	/* font-family: 'Open Sans', sans-serif; */
+	text-shadow: 1px 1px 1px black;
+	font-size: 2.5rem;
 	letter-spacing: 0.5px;
 }
 
 .navbar {
 	text-transform: uppercase;
+	
 }
 
 .nav-item {
@@ -130,9 +134,9 @@ h3 {
 
 .hovereffect .overlay-text {
 	font-size: 1.3rem;
-	font-family: 'Crimson Text', sans-serif;
 	font-weight: 300;
-	color: #000;
+	text-shadow: 1px 1px 2px black;
+	color: #0275d8;
 	left: 50%;
 	position: absolute;
 	top: 50%;
@@ -177,8 +181,12 @@ h3 {
 .page-nav a,
 span {
 	font-size: 1.3rem;
-	font-family: 'Crimson Text', sans-serif;
 	font-weight: 300;
 	margin: 0 10px;
 	color: #000;
+}
+.card {
+	border-radius: 30px;
+	background-color: #777;
+	border: solid 9px #FF4857;
 }

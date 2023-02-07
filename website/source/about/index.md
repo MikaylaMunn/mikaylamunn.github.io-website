@@ -1,6 +1,7 @@
 ---
 title: About Me
 cover_image: images/picOfMe.jpeg
+resume_pic: images/technicalResume.pdf
 layout: about
 ---
 

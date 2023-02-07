@@ -3,7 +3,7 @@
     <img class="personal-img" src="<%- config.root %><%- item.cover_image || theme.default_cover_image %>"
         alt="<%- item.title || theme.default_post_title || " Untitled" %>">
         <br/>
-    <button type="button" href ="../../source/resume/Technical Resume.pdf" class="btn btn-outline-primary">Resume PDF</button>
+        <a href ="<%- config.root %><%- item.resume_pic %>" class="btn btn-outline-primary">Resume</a>
 </div>
 <div class="col-lg-8 col-12 pt-lg-3 mb-4 pl-lg-5 px-lg-0 px-4 portfolio-content">
     <%- item.content %>
