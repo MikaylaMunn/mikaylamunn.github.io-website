@@ -19,5 +19,6 @@ The user can click on any of the three buttons offered
     User can see it was successfully added by checking the number below the next question button
 - If the user selects Study of the Brain:
     Takes the user to a wikipedia page to study
+Want to play, click the image **above**.
 
 To see more click [here](https://github.com/MikaylaMunn/brainGame) to see code on GitHub
