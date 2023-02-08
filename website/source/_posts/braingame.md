@@ -2,6 +2,7 @@
 title: Anatomy of the Brain
 subCategories: [HTML | CSS | JavaScript ]
 cover_image: images/brainGame.jpeg 
+website:  https://mikaylamunn.github.io/brainGame/
 ---
 
 I wanted to do a sample quiz for like educational testing. I enjoyed also learning about different parts of the brain as well. I wanted it to be fun, colorful because of the images I have found on the web. I wanted to keep the colors flowing throughout the quiz
@@ -18,3 +19,5 @@ The user can click on any of the three buttons offered
     User can see it was successfully added by checking the number below the next question button
 - If the user selects Study of the Brain:
     Takes the user to a wikipedia page to study
+
+To see more click [here](https://github.com/MikaylaMunn/brainGame) to see code on GitHub
